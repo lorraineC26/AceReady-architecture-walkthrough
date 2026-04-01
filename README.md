@@ -1,8 +1,17 @@
 <div align="center">
-  <h1>AceReady Architecture Course</h1>
+  <img src="public/logo.svg" alt="AceReady Logo" width="60" />  
+  <h1>AceReady Interactive Architecture Course</h1>
   <p>A 5-module interactive walkthrough of how AceReady works under the hood</p>
 
   <a href="https://github.com/lorraineC26/ai-mock-interview-platform">Main AceReady Repo</a>
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Vapi-7C3AED?style=for-the-badge&logo=webrtc&logoColor=white" alt="Vapi" />
+</div>
 
   <!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
