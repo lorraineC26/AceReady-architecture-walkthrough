@@ -1,8 +1,10 @@
 <div align="center">
   <img src="public/logo.svg" alt="AceReady Logo" width="60" />  
-  <h1>AceReady Interactive Architecture Course</h1>
+  <h1>AceReady Interactive Architecture Walkthrough</h1>
   <p>A 5-module interactive walkthrough of how AceReady works under the hood</p>
 
+  <a href="https://lorrainec26.github.io/AceReady-architecture-course/"><strong>View Walkthrough</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/lorraineC26/ai-mock-interview-platform">Main AceReady Repo</a>
 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -22,7 +24,7 @@
 
 ## What This Is
 
-This is a standalone interactive course that teaches the architecture of [AceReady](https://github.com/lorraineC26/ai-mock-interview-platform) — an AI-powered mock interview platform built with **Next.js, Firebase, Vapi, and Google Gemini**.
+This is a standalone interactive walkthrough of the architecture of [AceReady](https://github.com/lorraineC26/ai-mock-interview-platform) — an AI-powered mock interview platform built with **Next.js, Firebase, Vapi, and Google Gemini**.
 
 Each module uses real code from the AceReady codebase, paired with diagrams, animations, and quizzes to explain how the pieces connect. No prior knowledge of the tech stack required.
 
@@ -70,6 +72,6 @@ No internet connection required after loading (all assets are self-contained).
 
 ## Relationship to the Main Repo
 
-This course was originally part of the [AceReady](https://github.com/lorraineC26/ai-mock-interview-platform) repository and was moved here to keep the main repo clean.
+This walkthrough was originally part of the [AceReady](https://github.com/lorraineC26/ai-mock-interview-platform) repository and was moved here to keep the main repo clean.
 
 All code snippets reference the actual source files in the main repo. If you want to follow along in the code, clone both repos side by side.
