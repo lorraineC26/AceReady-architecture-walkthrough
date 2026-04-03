@@ -3,7 +3,7 @@
   <h1>AceReady Interactive Architecture Walkthrough</h1>
   <p>A 5-module interactive walkthrough of how AceReady works under the hood</p>
 
-  <a href="https://lorrainec26.github.io/AceReady-architecture-course/"><strong>View Walkthrough</strong></a>
+  <a href="https://lorrainec26.github.io/AceReady-architecture-walkthrough/"><strong>View Walkthrough</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/lorraineC26/ai-mock-interview-platform">Main AceReady Repo</a>
 
